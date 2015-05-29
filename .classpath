@@ -32,5 +32,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/arafath/Documents/workspace/SolrPOC/tess4j.jar"/>
+	<classpathentry kind="lib" path="/Users/arafath/Documents/workspace/SolrPOC/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="/Users/arafath/Documents/workspace/SolrPOC/jna-4.1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

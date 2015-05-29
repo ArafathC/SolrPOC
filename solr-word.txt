@@ -1,0 +1,2 @@
+This is a test ofPDF and Word extraction in Salt, it is only a test. Do not panic.
+
